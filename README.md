@@ -11,8 +11,9 @@
 - 🌍 **Google Cloud Professional Cloud Developer** with **3+ years of experience** in cloud infrastructure, automation, and data migration.  
 - 🏗️ Passionate about **Infrastructure as Code (IaC)**, **Terraform**, and designing **scalable cloud solutions**.  
 - ☁️ Experienced in **GCP Services**: Compute Engine, Cloud Storage, BigQuery, Dataproc, Cloud IAM, Cloud Functions, and more.  
-- 📊 Strong background in **CI/CD pipelines, Kubernetes, DevOps, and cloud security**.  
-- 🎯 Currently working at **Wipro** as a **Cloud Engineer** for **Charles Schwab**.  
+- 📊 Strong background in **CI/CD pipelines, Kubernetes, DevOps, and cloud security**.
+- 🎯 Currently working at **EY - Global Delivery Services LLP India** as a **Technology Consultant**.
+- 🌟 Previous organization: **Wipro** 🌐 Role: **Cloud Engineer** 🏢 Client: **Charles Schwab**. 
 
 ---
 
