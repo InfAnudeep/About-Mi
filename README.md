@@ -22,7 +22,7 @@ Terraform locals<br>
 Terraform tfvars<br>
 Terraform state file management<br>
 Terraform import data block<br>
-Terraform lifecycle managemnt<br>
+Terraform lifecycle management<br>
 Version Control<br>
 Terraform module update<br>
 Terraform static code analysis<br>
