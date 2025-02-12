@@ -35,6 +35,9 @@
 ✅ **Data Analytics Essentials - CISCO**  
 ✅ **Intelligent Data Management Cloud - Partner Bootcamp**  
 
+Feel free to check out my certifications on [Credly](https://www.credly.com/users/anudeep-cloud-engineer) 🎓
+
+
 ---
 
 ### 🏆 **GitHub Stats**  
@@ -59,6 +62,7 @@
 ### 💡 **Let's Connect!**  
 🔗 [LinkedIn](https://www.linkedin.com/in/krishna-prayaga-cloud-engineer)  
 📧 [Email](mailto:prayagaanudeep7@gmail.com)  
+📸 [Instagram](https://instagram.com/inf.anu)
 
 ---
 
