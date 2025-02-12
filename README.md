@@ -44,10 +44,14 @@
 
 ---
 
-### 📈 **Top Languages**  
+### 📈 **Top Languages & Specialization**  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfAnudeep&layout=compact&theme=tokyonight" alt="Top Languages" width="49%" />
 </p>
+
+🛠 **Primary Language**: Terraform  
+☁️ **Specialized in**: Google Cloud Platform, IaC, DevOps, and Automation  
+🔧 **Other Skills**: Python, SQL, Kubernetes, Cloud Security  
 
 ---
 
