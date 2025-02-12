@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Prayaga Krishna Sai Anudeep 👋</h1>
+<h1 align="center">Yo there, I'm Krishna Sai Anudeep Prayaga👋</h1>
 <h3 align="center">🚀 Google Cloud Platform Engineer | Terraform Developer | DevOps Enthusiast</h3>
 
 <p align="center">
