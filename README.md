@@ -13,7 +13,7 @@
 - ☁️ Experienced in **GCP Services**: Compute Engine, Cloud Storage, BigQuery, Dataproc, Cloud IAM, Cloud Functions, and more.  
 - 📊 Strong background in **CI/CD pipelines, Kubernetes, DevOps, and cloud security**.
 - 🎯 Currently working at **EY - Global Delivery Services LLP India** as a **Technology Consultant**.
-- 🌟 Previous organization: **Wipro** 🌐 Role: **Cloud Engineer** 🏢 Client: **Charles Schwab**. 
+- 🌟 Previous organization: **Wipro** 🌐 Role: **Project Engineer** 🏢 Client: **Charles Schwab**. 
 
 ---
 
