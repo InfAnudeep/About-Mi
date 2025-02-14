@@ -37,6 +37,9 @@
 
 Feel free to check out my certifications on [Credly](https://www.credly.com/users/anudeep-cloud-engineer) 🎓
 
+## My Cloud Skills Boost Profile
+
+You can view my Cloud Skills Boost profile here: [Cloud Skills Boost Profile](https://www.cloudskillsboost.google/public_profiles/33298513-8fcc-4a5c-a7c7-a814c8af1a54)
 
 ---
 
